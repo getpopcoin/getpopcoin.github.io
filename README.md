@@ -1,5 +1,5 @@
 # PoPcoin
-A Generalized Utility Token to Achieve Wide Distribution via Recursive Incentives
+World’s first autonomously propagating and scaling token network 
 
 Contact kk@getpopcoin.com
 
