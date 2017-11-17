@@ -1,5 +1,5 @@
 # PoPcoin
-World’s first autonomously propagating and scaling token network 
+The world’s first self-propagating utility coin network 
 
 Contact kk@getpopcoin.com
 
