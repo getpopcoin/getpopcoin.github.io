@@ -1,5 +1,5 @@
 # PoPcoin
-# The world’s first self-propagating utility coin network 
+## The world’s first self-propagating utility coin network 
 
 Contact kk@getpopcoin.com
 
